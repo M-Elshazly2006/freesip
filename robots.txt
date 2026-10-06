@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace YOUR-LIVE-WEBSITE-URL after publishing
-Sitemap: https://YOUR-LIVE-WEBSITE-URL/sitemap.xml
+Sitemap: https://m-elshazly2006.github.io/freesip/sitemap.xml
