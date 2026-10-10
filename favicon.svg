@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 76" role="img" aria-label="FreeSip water drop">
+  <defs><linearGradient id="a" x1="10%" y1="5%" x2="90%" y2="90%"><stop stop-color="#176ce2"/><stop offset="1" stop-color="#10b9b2"/></linearGradient></defs>
+  <path d="M32 3C22 20 7 34 7 49a25 25 0 0 0 50 0C57 34 42 20 32 3Z" fill="url(#a)"/>
+  <path d="M19 53c2 7 7 11 13 12" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+</svg>
